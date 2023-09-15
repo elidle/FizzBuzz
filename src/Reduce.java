@@ -9,6 +9,6 @@ public class Reduce {
             }
             ans++;
         }
-        System.out.println(ans);;
+        System.out.println(ans);
     }
 }
